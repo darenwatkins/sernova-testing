@@ -59,7 +59,8 @@ Rules and constraints
 - Keep the test self-contained and easy to review.
 
 What to submit
-- A running project (after your fixes).
+- Submit to your own repository
+- A running project (after your fixes). 
 - A brief note explaining:
   - The issues you identified.
   - The changes you made (and why).
